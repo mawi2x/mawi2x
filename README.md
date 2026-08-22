@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Mawi
+# 👋 Hi, I'm mawel, mawi, mpm4wi
 
-**CTF Player · Blue Teamer · Cybersecurity Enthusiast**
+** Blue Teamer | CTF Player| Cybersecurity Enthusiast**
 
 Interested in cybersecurity, digital forensics, network analysis, and Capture The Flag competitions.
 
 ## 🏆 Achievements
+Some notable achievements 
 
 * 🥇 Hack4Gov 3 Region 1 — **Champion**
 * 🇵🇭 Hack4Gov 3 Nationals — **7th Place**
@@ -14,9 +15,9 @@ Interested in cybersecurity, digital forensics, network analysis, and Capture Th
 
 ## 🛡️ Interests
 
-`Blue Team` · `CTF` · `Digital Forensics` · `Network Analysis` · `Cybersecurity`
+`Blue Teaming` · `CTF` · `Digital Forensics` · `Network Analysis` · `Cybersecurity`
 
-## 🌐 Socials
+## 🌐 My Socials
 
 * GitHub — [@USERNAME](https://github.com/USERNAME)
 * LinkedIn — [Your Name](https://www.linkedin.com/in/USERNAME)
