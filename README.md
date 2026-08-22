@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Mawi
 
-<!--
-**mawi2x/mawi2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CTF Player · Blue Teamer · Cybersecurity Enthusiast**
 
-Here are some ideas to get you started:
+Interested in cybersecurity, digital forensics, network analysis, and Capture The Flag competitions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+
+* 🥇 Hack4Gov 3 Region 1 — **Champion**
+* 🇵🇭 Hack4Gov 3 Nationals — **7th Place**
+* 🥇 Hack4Gov 4 Region 1 — **Champion**
+* 🇵🇭 Hack4Gov 4 Nationals — **Finalist**
+* 🥉 Hack4Gov 5 Region 1 — **2nd Runner-Up**
+
+## 🛡️ Interests
+
+`Blue Team` · `CTF` · `Digital Forensics` · `Network Analysis` · `Cybersecurity`
+
+## 🌐 Socials
+
+* GitHub — [@USERNAME](https://github.com/USERNAME)
+* LinkedIn — [Your Name](https://www.linkedin.com/in/USERNAME)
+* TryHackMe — [@USERNAME](https://tryhackme.com/p/USERNAME)
+* Hackviser — [@USERNAME](https://app.hackviser.com/profile/USERNAME)
+* Medium — [@USERNAME](https://medium.com/@USERNAME)
+
+---
+
+> Always learning, one flag at a time. 🚩
