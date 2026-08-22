@@ -1,8 +1,8 @@
 # 👋 Hi, I'm mawel, mawi, mpm4wi
 
-** Blue Teamer | CTF Player| Cybersecurity Enthusiast**
+### Blue Teamer | CTF Player| Cybersecurity Enthusiast
 
-Interested in cybersecurity, digital forensics, network analysis, and Capture The Flag competitions.
+Interested in cybersecurity, digital forensics, network analysis, and actively participating in CTF events offline and online.
 
 ## 🏆 Achievements
 Some notable achievements 
