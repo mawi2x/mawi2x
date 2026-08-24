@@ -22,11 +22,12 @@ Interested in cybersecurity, digital forensics, network analysis, and actively p
 
 ## 🌐 My Socials
 
-* GitHub — [@USERNAME](https://github.com/USERNAME)
-* LinkedIn — [Your Name]([https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/mawelaban/))
-* TryHackMe — [@USERNAME](https://tryhackme.com/p/USERNAME)
-* Hackviser — [@USERNAME](https://app.hackviser.com/profile/USERNAME)
-* Medium — [@USERNAME](https://medium.com/@USERNAME)
+* GitHub — [@mawi2x](https://github.com/mawi2x)
+* LinkedIn — [Mawel Aban]([https://www.linkedin.com/in/mawelaban])
+* TryHackMe — [@mp4mwi](https://tryhackme.com/p/mpm4wi)
+* HackTheBox _ [@mp4mwi](https://tryhackme.com/p/mpm4wi)
+* Hackviser — [@mpm4wi](https://app.hackviser.com/profile/mpm4wi)
+* Medium — [@mpm4wi](https://medium.com/@mp4mwi)
 
 ---
 
