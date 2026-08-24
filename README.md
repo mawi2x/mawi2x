@@ -23,7 +23,7 @@ Interested in cybersecurity, digital forensics, network analysis, and actively p
 ## 🌐 My Socials
 
 * GitHub — [@mawi2x](https://github.com/mawi2x)
-* LinkedIn — [Mawel Aban]([https://www.linkedin.com/in/mawelaban])
+* LinkedIn — [@Mawel Aban]([https://www.linkedin.com/in/mawelaban])
 * TryHackMe — [@mp4mwi](https://tryhackme.com/p/mpm4wi)
 * HackTheBox _ [@mp4mwi](https://tryhackme.com/p/mpm4wi)
 * Hackviser — [@mpm4wi](https://app.hackviser.com/profile/mpm4wi)
